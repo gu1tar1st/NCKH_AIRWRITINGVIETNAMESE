@@ -19,3 +19,4 @@ while True:
     print()
     print("-------------------------------")
     time.sleep(1)
+#source: https://github.com/Arijit1080/mpu6050-with-Raspberry-Pi/tree/master
